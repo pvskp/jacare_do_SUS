@@ -1,4 +1,5 @@
 # Jacaré do SUS 💉
+![image](https://user-images.githubusercontent.com/77075070/126856079-7299048e-0ea6-4d7f-8e3d-5dc4f652a6eb.png)
 
 **Este jogo foi criado para a Chocolate Game Jam, promovida pela Gamux, Entidade Estudantil da Universidade Estadual de Campinas.**
 
